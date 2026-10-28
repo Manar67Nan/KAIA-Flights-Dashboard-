@@ -114,4 +114,10 @@ This project was developed in the context of a one-month training camp with **Ne
 
 This statement describes the project's training context and does not imply official endorsement or certification by either organization.
 
+## Certificate of Completion
+
+This certificate recognizes the completion of the training program with NewTech and the Saudi Digital Academy.
+
+![Training Certificate](<SDA certificate.jpg>)
+
 
