@@ -89,7 +89,7 @@ The data preparation workflow includes the following steps:
 
 The transit-duration rules are specific to this dataset and should not be interpreted as universal rules for all flight datasets.
 
-## 💻 Python Notebook
+##  Python Notebook
 
 The Python notebook documents the data preparation and analysis workflow, from initial inspection through cleaning, feature engineering, validation, and export.
 
